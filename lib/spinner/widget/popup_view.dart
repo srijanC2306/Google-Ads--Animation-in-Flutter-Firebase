@@ -18,7 +18,7 @@ class PopupView extends StatelessWidget {
   Widget build(BuildContext context) {
     return SizedBox(
       width: Get.width*.80,
-      height: 300,
+      height: 400,
       child: Stack(
         children: [
           Positioned(top: 40, child: _upperView),

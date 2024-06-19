@@ -23,6 +23,8 @@
 ## Install FlutterFire CLI
 
 ```bash
+//If Using for First Time
+npm install -g firebase-tools
 dart pub global activate flutterfire_cli
 flutterfire configure
 ```
