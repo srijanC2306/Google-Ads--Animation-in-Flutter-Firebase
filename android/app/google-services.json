@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "847226598993",
+    "project_id": "ads-267eb",
+    "storage_bucket": "ads-267eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847226598993:android:8753679cda821f74392a70",
+        "android_client_info": {
+          "package_name": "com.example.google_ads_mob_integration"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxzW5_HrqnJeDfgg8UoKhttWwAXa4YD2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
