@@ -126,6 +126,24 @@ Contributions are welcome! Please create a pull request or submit an issue for a
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+# Preview Emulator View
+
+<p align="center">
+  <img width="200" height="400" alt="Screenshot 2024-06-19 at 2 02 16 PM" src="https://github.com/srijanC2306/Google-Ads--Animation-in-Flutter-Firebase/assets/51461624/70498957-0eab-4d22-b114-dd51a4714725" style="margin-right: 20px;">
+  <img width="200" height="400" alt="Screenshot 2024-06-19 at 2 07 40 PM" src="https://github.com/srijanC2306/Google-Ads--Animation-in-Flutter-Firebase/assets/51461624/22878403-e4b4-4267-bd4e-638fd7988c60" style="margin-left: 20px;">
+</p>
+<p align="center">
+  <img width="200" height="400" alt="Screenshot 2024-06-19 at 2 07 40 PM" src="https://github.com/srijanC2306/Google-Ads--Animation-in-Flutter-Firebase/assets/51461624/83c63f92-4118-4898-b43d-f8ee73b596f4" style="margin-right: 20px;">
+  <img width="200" height="400" alt="Screenshot 2024-06-19 at 2 07 57 PM" src="https://github.com/srijanC2306/Google-Ads--Animation-in-Flutter-Firebase/assets/51461624/3d7cc28c-f7c3-4a67-b844-8d36fddd0f6f" style="margin-left: 20px;">
+</p>
+
+
+
+
+
+
+
+
 
 
 
